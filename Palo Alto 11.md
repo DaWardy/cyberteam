@@ -1,5 +1,7 @@
 https://github.com/msu-cnm/cyberteam/blob/main/tools/scripts/unix/first_hour.sh 
+
 https://github.com/msu-cnm/cyberteam/blob/main/tools/checklists/linux/common.md 
+
 https://github.com/msu-cnm/cyberteam/blob/main/tools/checklists/linux/advanced.md 
 
 
