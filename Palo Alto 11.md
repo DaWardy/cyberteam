@@ -1,19 +1,12 @@
-https://github.com/msu-cnm/cyberteam/blob/main/tools/scripts/unix/first_hour.sh
+https://github.com/msu-cnm/cyberteam/blob/main/tools/scripts/unix/first_hour.sh 
+https://github.com/msu-cnm/cyberteam/blob/main/tools/checklists/linux/common.md 
+https://github.com/msu-cnm/cyberteam/blob/main/tools/checklists/linux/advanced.md 
 
-https://github.com/msu-cnm/cyberteam/blob/main/tools/checklists/linux/common.md
-
-https://github.com/msu-cnm/cyberteam/blob/main/tools/checklists/linux/advanced.md
 
 Palo Alto Firewall 11
 
- 
 
  
-
- 
-
-![img](file:///C:/Users/DaWardy/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)![img](file:///C:/Users/DaWardy/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
-
 ·     Change Admin Password
 
 o  Select Device>Administrators>admin
